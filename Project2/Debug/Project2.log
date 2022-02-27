@@ -1,0 +1,8 @@
+﻿  Project2.cpp
+C:\Users\Valeria\source\repos\Project2\Project2\Project2.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valeria\source\repos\Project2\Project2\Project2.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valeria\source\repos\Project2\Project2\Project2.cpp(95,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valeria\source\repos\Project2\Project2\Project2.cpp(119,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valeria\source\repos\Project2\Project2\Project2.cpp(67,6): warning C4101: 'inpNumber': unreferenced local variable
+C:\Users\Valeria\source\repos\Project2\Project2\Project2.cpp(63,7): warning C4101: 'ch': unreferenced local variable
+  Project2.vcxproj -> C:\Users\Valeria\source\repos\Project2\Debug\Project2.exe
